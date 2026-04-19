@@ -1,49 +1,49 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <debugInfo>
-    <manifest filename="C:\Users\Martin\projects\rhythm-watch-garmin\rhythm-watch-garmin\manifest.xml"/>
+    <manifest filename="C:\projects\rhythm-watch-garmin\manifest.xml"/>
     <pcToLineNum>
-        <entry filename="C:\\Users\\Martin\\projects\\rhythm-watch-garmin\\rhythm-watch-garmin\\source\\rhythm-watch-garminView.mc" id="1" lineNum="4" parent="globals/rhythm_watch_garminView" pc="268435460" symbol="&lt;init&gt;"/>
-        <entry filename="C:\\Users\\Martin\\projects\\rhythm-watch-garmin\\rhythm-watch-garmin\\source\\rhythm-watch-garminApp.mc" id="2" lineNum="26" parent="globals" pc="268435472" symbol="getApp"/>
-        <entry filename="C:\\Users\\Martin\\projects\\rhythm-watch-garmin\\rhythm-watch-garmin\\source\\rhythm-watch-garminApp.mc" id="2" lineNum="27" parent="globals" pc="268435482" symbol="getApp"/>
-        <entry filename="C:\\Users\\Martin\\projects\\rhythm-watch-garmin\\rhythm-watch-garmin\\source\\rhythm-watch-garminApp.mc" id="3" lineNum="5" parent="globals/rhythm_watch_garminApp" pc="268435493" symbol="&lt;init&gt;"/>
-        <entry filename="C:\\Users\\Martin\\projects\\rhythm-watch-garmin\\rhythm-watch-garmin\\source\\rhythm-watch-garminDelegate.mc" id="4" lineNum="4" parent="globals/rhythm_watch_garminDelegate" pc="268435505" symbol="&lt;init&gt;"/>
-        <entry filename="c:\\Users\\Martin\\projects\\rhythm-watch-garmin\\rhythm-watch-garmin\\bin\\gen\\006-B4432-00\\source\\Rez.mcgen" id="5" lineNum="7" parent="globals/Rez" pc="268435517" symbol="&lt;init&gt;"/>
-        <entry filename="C:\\Users\\Martin\\projects\\rhythm-watch-garmin\\rhythm-watch-garmin\\source\\rhythm-watch-garminMenuDelegate.mc" id="6" lineNum="5" parent="globals/rhythm_watch_garminMenuDelegate" pc="268435537" symbol="&lt;init&gt;"/>
-        <entry filename="C:\\Users\\Martin\\projects\\rhythm-watch-garmin\\rhythm-watch-garmin\\source\\rhythm-watch-garminView.mc" id="8" lineNum="11" parent="globals/rhythm_watch_garminView" pc="268435549" symbol="onLayout"/>
-        <entry filename="C:\\Users\\Martin\\projects\\rhythm-watch-garmin\\rhythm-watch-garmin\\source\\rhythm-watch-garminView.mc" id="8" lineNum="12" parent="globals/rhythm_watch_garminView" pc="268435551" symbol="onLayout"/>
-        <entry filename="C:\\Users\\Martin\\projects\\rhythm-watch-garmin\\rhythm-watch-garmin\\source\\rhythm-watch-garminView.mc" id="9" lineNum="6" parent="globals/rhythm_watch_garminView" pc="268435585" symbol="initialize"/>
-        <entry filename="C:\\Users\\Martin\\projects\\rhythm-watch-garmin\\rhythm-watch-garmin\\source\\rhythm-watch-garminView.mc" id="9" lineNum="7" parent="globals/rhythm_watch_garminView" pc="268435587" symbol="initialize"/>
-        <entry filename="C:\\Users\\Martin\\projects\\rhythm-watch-garmin\\rhythm-watch-garmin\\source\\rhythm-watch-garminView.mc" id="11" lineNum="22" parent="globals/rhythm_watch_garminView" pc="268435600" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\Martin\\projects\\rhythm-watch-garmin\\rhythm-watch-garmin\\source\\rhythm-watch-garminView.mc" id="11" lineNum="24" parent="globals/rhythm_watch_garminView" pc="268435602" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\Martin\\projects\\rhythm-watch-garmin\\rhythm-watch-garmin\\source\\rhythm-watch-garminApp.mc" id="12" lineNum="12" parent="globals/rhythm_watch_garminApp" pc="268435619" symbol="onStart"/>
-        <entry filename="C:\\Users\\Martin\\projects\\rhythm-watch-garmin\\rhythm-watch-garmin\\source\\rhythm-watch-garminApp.mc" id="13" lineNum="20" parent="globals/rhythm_watch_garminApp" pc="268435622" symbol="getInitialView"/>
-        <entry filename="C:\\Users\\Martin\\projects\\rhythm-watch-garmin\\rhythm-watch-garmin\\source\\rhythm-watch-garminApp.mc" id="13" lineNum="21" parent="globals/rhythm_watch_garminApp" pc="268435624" symbol="getInitialView"/>
-        <entry filename="C:\\Users\\Martin\\projects\\rhythm-watch-garmin\\rhythm-watch-garmin\\source\\rhythm-watch-garminApp.mc" id="14" lineNum="7" parent="globals/rhythm_watch_garminApp" pc="268435671" symbol="initialize"/>
-        <entry filename="C:\\Users\\Martin\\projects\\rhythm-watch-garmin\\rhythm-watch-garmin\\source\\rhythm-watch-garminApp.mc" id="14" lineNum="8" parent="globals/rhythm_watch_garminApp" pc="268435673" symbol="initialize"/>
-        <entry filename="C:\\Users\\Martin\\projects\\rhythm-watch-garmin\\rhythm-watch-garmin\\source\\rhythm-watch-garminApp.mc" id="15" lineNum="16" parent="globals/rhythm_watch_garminApp" pc="268435686" symbol="onStop"/>
-        <entry filename="C:\\Users\\Martin\\projects\\rhythm-watch-garmin\\rhythm-watch-garmin\\source\\rhythm-watch-garminDelegate.mc" id="16" lineNum="10" parent="globals/rhythm_watch_garminDelegate" pc="268435689" symbol="onMenu"/>
-        <entry filename="C:\\Users\\Martin\\projects\\rhythm-watch-garmin\\rhythm-watch-garmin\\source\\rhythm-watch-garminDelegate.mc" id="16" lineNum="11" parent="globals/rhythm_watch_garminDelegate" pc="268435691" symbol="onMenu"/>
-        <entry filename="C:\\Users\\Martin\\projects\\rhythm-watch-garmin\\rhythm-watch-garmin\\source\\rhythm-watch-garminDelegate.mc" id="16" lineNum="12" parent="globals/rhythm_watch_garminDelegate" pc="268435756" symbol="onMenu"/>
-        <entry filename="C:\\Users\\Martin\\projects\\rhythm-watch-garmin\\rhythm-watch-garmin\\source\\rhythm-watch-garminDelegate.mc" id="17" lineNum="6" parent="globals/rhythm_watch_garminDelegate" pc="268435758" symbol="initialize"/>
-        <entry filename="C:\\Users\\Martin\\projects\\rhythm-watch-garmin\\rhythm-watch-garmin\\source\\rhythm-watch-garminDelegate.mc" id="17" lineNum="7" parent="globals/rhythm_watch_garminDelegate" pc="268435760" symbol="initialize"/>
-        <entry filename="C:\\Users\\Martin\\projects\\rhythm-watch-garmin\\rhythm-watch-garmin\\source\\rhythm-watch-garminMenuDelegate.mc" id="18" lineNum="11" parent="globals/rhythm_watch_garminMenuDelegate" pc="268435773" symbol="onMenuItem"/>
-        <entry filename="C:\\Users\\Martin\\projects\\rhythm-watch-garmin\\rhythm-watch-garmin\\source\\rhythm-watch-garminMenuDelegate.mc" id="18" lineNum="12" parent="globals/rhythm_watch_garminMenuDelegate" pc="268435775" symbol="onMenuItem"/>
-        <entry filename="C:\\Users\\Martin\\projects\\rhythm-watch-garmin\\rhythm-watch-garmin\\source\\rhythm-watch-garminMenuDelegate.mc" id="18" lineNum="13" parent="globals/rhythm_watch_garminMenuDelegate" pc="268435786" symbol="onMenuItem"/>
-        <entry filename="C:\\Users\\Martin\\projects\\rhythm-watch-garmin\\rhythm-watch-garmin\\source\\rhythm-watch-garminMenuDelegate.mc" id="18" lineNum="14" parent="globals/rhythm_watch_garminMenuDelegate" pc="268435807" symbol="onMenuItem"/>
-        <entry filename="C:\\Users\\Martin\\projects\\rhythm-watch-garmin\\rhythm-watch-garmin\\source\\rhythm-watch-garminMenuDelegate.mc" id="18" lineNum="15" parent="globals/rhythm_watch_garminMenuDelegate" pc="268435818" symbol="onMenuItem"/>
-        <entry filename="C:\\Users\\Martin\\projects\\rhythm-watch-garmin\\rhythm-watch-garmin\\source\\rhythm-watch-garminMenuDelegate.mc" id="19" lineNum="7" parent="globals/rhythm_watch_garminMenuDelegate" pc="268435840" symbol="initialize"/>
-        <entry filename="C:\\Users\\Martin\\projects\\rhythm-watch-garmin\\rhythm-watch-garmin\\source\\rhythm-watch-garminMenuDelegate.mc" id="19" lineNum="8" parent="globals/rhythm_watch_garminMenuDelegate" pc="268435842" symbol="initialize"/>
-        <entry filename="c:\\Users\\Martin\\projects\\rhythm-watch-garmin\\rhythm-watch-garmin\\bin\\gen\\006-B4432-00\\source\\Rez.mcgen" id="20" lineNum="14" parent="globals/Rez/Layouts" pc="268435855" symbol="MainLayout"/>
-        <entry filename="c:\\Users\\Martin\\projects\\rhythm-watch-garmin\\rhythm-watch-garmin\\bin\\gen\\006-B4432-00\\source\\Rez.mcgen" id="20" lineNum="15" parent="globals/Rez/Layouts" pc="268435866" symbol="MainLayout"/>
-        <entry filename="c:\\Users\\Martin\\projects\\rhythm-watch-garmin\\rhythm-watch-garmin\\bin\\gen\\006-B4432-00\\source\\Rez.mcgen" id="20" lineNum="17" parent="globals/Rez/Layouts" pc="268435875" symbol="MainLayout"/>
-        <entry filename="c:\\Users\\Martin\\projects\\rhythm-watch-garmin\\rhythm-watch-garmin\\bin\\gen\\006-B4432-00\\source\\Rez.mcgen" id="20" lineNum="19" parent="globals/Rez/Layouts" pc="268435978" symbol="MainLayout"/>
-        <entry filename="c:\\Users\\Martin\\projects\\rhythm-watch-garmin\\rhythm-watch-garmin\\bin\\gen\\006-B4432-00\\source\\Rez.mcgen" id="20" lineNum="20" parent="globals/Rez/Layouts" pc="268436062" symbol="MainLayout"/>
-        <entry filename="c:\\Users\\Martin\\projects\\rhythm-watch-garmin\\rhythm-watch-garmin\\bin\\gen\\006-B4432-00\\source\\Rez.mcgen" id="20" lineNum="22" parent="globals/Rez/Layouts" pc="268436093" symbol="MainLayout"/>
-        <entry filename="c:\\Users\\Martin\\projects\\rhythm-watch-garmin\\rhythm-watch-garmin\\bin\\gen\\006-B4432-00\\source\\Rez.mcgen" id="21" lineNum="27" parent="globals/Rez/Menus/MainMenu" pc="268436108" symbol="&lt;init&gt;"/>
-        <entry filename="c:\\Users\\Martin\\projects\\rhythm-watch-garmin\\rhythm-watch-garmin\\bin\\gen\\006-B4432-00\\source\\Rez.mcgen" id="22" lineNum="28" parent="globals/Rez/Menus/MainMenu" pc="268436120" symbol="initialize"/>
-        <entry filename="c:\\Users\\Martin\\projects\\rhythm-watch-garmin\\rhythm-watch-garmin\\bin\\gen\\006-B4432-00\\source\\Rez.mcgen" id="22" lineNum="29" parent="globals/Rez/Menus/MainMenu" pc="268436122" symbol="initialize"/>
-        <entry filename="c:\\Users\\Martin\\projects\\rhythm-watch-garmin\\rhythm-watch-garmin\\bin\\gen\\006-B4432-00\\source\\Rez.mcgen" id="22" lineNum="30" parent="globals/Rez/Menus/MainMenu" pc="268436134" symbol="initialize"/>
-        <entry filename="c:\\Users\\Martin\\projects\\rhythm-watch-garmin\\rhythm-watch-garmin\\bin\\gen\\006-B4432-00\\source\\Rez.mcgen" id="22" lineNum="31" parent="globals/Rez/Menus/MainMenu" pc="268436179" symbol="initialize"/>
+        <entry filename="C:\\projects\\rhythm-watch-garmin\\source\\rhythm-watch-garminView.mc" id="1" lineNum="4" parent="globals/rhythm_watch_garminView" pc="268435460" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\projects\\rhythm-watch-garmin\\source\\rhythm-watch-garminApp.mc" id="2" lineNum="26" parent="globals" pc="268435472" symbol="getApp"/>
+        <entry filename="C:\\projects\\rhythm-watch-garmin\\source\\rhythm-watch-garminApp.mc" id="2" lineNum="27" parent="globals" pc="268435482" symbol="getApp"/>
+        <entry filename="C:\\projects\\rhythm-watch-garmin\\source\\rhythm-watch-garminApp.mc" id="3" lineNum="5" parent="globals/rhythm_watch_garminApp" pc="268435493" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\projects\\rhythm-watch-garmin\\source\\rhythm-watch-garminDelegate.mc" id="4" lineNum="4" parent="globals/rhythm_watch_garminDelegate" pc="268435505" symbol="&lt;init&gt;"/>
+        <entry filename="c:\\projects\\rhythm-watch-garmin\\bin\\gen\\006-B4432-00\\source\\Rez.mcgen" id="5" lineNum="7" parent="globals/Rez" pc="268435517" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\projects\\rhythm-watch-garmin\\source\\rhythm-watch-garminMenuDelegate.mc" id="6" lineNum="5" parent="globals/rhythm_watch_garminMenuDelegate" pc="268435537" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\projects\\rhythm-watch-garmin\\source\\rhythm-watch-garminView.mc" id="8" lineNum="11" parent="globals/rhythm_watch_garminView" pc="268435549" symbol="onLayout"/>
+        <entry filename="C:\\projects\\rhythm-watch-garmin\\source\\rhythm-watch-garminView.mc" id="8" lineNum="12" parent="globals/rhythm_watch_garminView" pc="268435551" symbol="onLayout"/>
+        <entry filename="C:\\projects\\rhythm-watch-garmin\\source\\rhythm-watch-garminView.mc" id="9" lineNum="6" parent="globals/rhythm_watch_garminView" pc="268435585" symbol="initialize"/>
+        <entry filename="C:\\projects\\rhythm-watch-garmin\\source\\rhythm-watch-garminView.mc" id="9" lineNum="7" parent="globals/rhythm_watch_garminView" pc="268435587" symbol="initialize"/>
+        <entry filename="C:\\projects\\rhythm-watch-garmin\\source\\rhythm-watch-garminView.mc" id="11" lineNum="22" parent="globals/rhythm_watch_garminView" pc="268435600" symbol="onUpdate"/>
+        <entry filename="C:\\projects\\rhythm-watch-garmin\\source\\rhythm-watch-garminView.mc" id="11" lineNum="24" parent="globals/rhythm_watch_garminView" pc="268435602" symbol="onUpdate"/>
+        <entry filename="C:\\projects\\rhythm-watch-garmin\\source\\rhythm-watch-garminApp.mc" id="12" lineNum="12" parent="globals/rhythm_watch_garminApp" pc="268435619" symbol="onStart"/>
+        <entry filename="C:\\projects\\rhythm-watch-garmin\\source\\rhythm-watch-garminApp.mc" id="13" lineNum="20" parent="globals/rhythm_watch_garminApp" pc="268435622" symbol="getInitialView"/>
+        <entry filename="C:\\projects\\rhythm-watch-garmin\\source\\rhythm-watch-garminApp.mc" id="13" lineNum="21" parent="globals/rhythm_watch_garminApp" pc="268435624" symbol="getInitialView"/>
+        <entry filename="C:\\projects\\rhythm-watch-garmin\\source\\rhythm-watch-garminApp.mc" id="14" lineNum="7" parent="globals/rhythm_watch_garminApp" pc="268435671" symbol="initialize"/>
+        <entry filename="C:\\projects\\rhythm-watch-garmin\\source\\rhythm-watch-garminApp.mc" id="14" lineNum="8" parent="globals/rhythm_watch_garminApp" pc="268435673" symbol="initialize"/>
+        <entry filename="C:\\projects\\rhythm-watch-garmin\\source\\rhythm-watch-garminApp.mc" id="15" lineNum="16" parent="globals/rhythm_watch_garminApp" pc="268435686" symbol="onStop"/>
+        <entry filename="C:\\projects\\rhythm-watch-garmin\\source\\rhythm-watch-garminDelegate.mc" id="16" lineNum="10" parent="globals/rhythm_watch_garminDelegate" pc="268435689" symbol="onMenu"/>
+        <entry filename="C:\\projects\\rhythm-watch-garmin\\source\\rhythm-watch-garminDelegate.mc" id="16" lineNum="11" parent="globals/rhythm_watch_garminDelegate" pc="268435691" symbol="onMenu"/>
+        <entry filename="C:\\projects\\rhythm-watch-garmin\\source\\rhythm-watch-garminDelegate.mc" id="16" lineNum="12" parent="globals/rhythm_watch_garminDelegate" pc="268435756" symbol="onMenu"/>
+        <entry filename="C:\\projects\\rhythm-watch-garmin\\source\\rhythm-watch-garminDelegate.mc" id="17" lineNum="6" parent="globals/rhythm_watch_garminDelegate" pc="268435758" symbol="initialize"/>
+        <entry filename="C:\\projects\\rhythm-watch-garmin\\source\\rhythm-watch-garminDelegate.mc" id="17" lineNum="7" parent="globals/rhythm_watch_garminDelegate" pc="268435760" symbol="initialize"/>
+        <entry filename="C:\\projects\\rhythm-watch-garmin\\source\\rhythm-watch-garminMenuDelegate.mc" id="18" lineNum="11" parent="globals/rhythm_watch_garminMenuDelegate" pc="268435773" symbol="onMenuItem"/>
+        <entry filename="C:\\projects\\rhythm-watch-garmin\\source\\rhythm-watch-garminMenuDelegate.mc" id="18" lineNum="12" parent="globals/rhythm_watch_garminMenuDelegate" pc="268435775" symbol="onMenuItem"/>
+        <entry filename="C:\\projects\\rhythm-watch-garmin\\source\\rhythm-watch-garminMenuDelegate.mc" id="18" lineNum="13" parent="globals/rhythm_watch_garminMenuDelegate" pc="268435786" symbol="onMenuItem"/>
+        <entry filename="C:\\projects\\rhythm-watch-garmin\\source\\rhythm-watch-garminMenuDelegate.mc" id="18" lineNum="14" parent="globals/rhythm_watch_garminMenuDelegate" pc="268435807" symbol="onMenuItem"/>
+        <entry filename="C:\\projects\\rhythm-watch-garmin\\source\\rhythm-watch-garminMenuDelegate.mc" id="18" lineNum="15" parent="globals/rhythm_watch_garminMenuDelegate" pc="268435818" symbol="onMenuItem"/>
+        <entry filename="C:\\projects\\rhythm-watch-garmin\\source\\rhythm-watch-garminMenuDelegate.mc" id="19" lineNum="7" parent="globals/rhythm_watch_garminMenuDelegate" pc="268435840" symbol="initialize"/>
+        <entry filename="C:\\projects\\rhythm-watch-garmin\\source\\rhythm-watch-garminMenuDelegate.mc" id="19" lineNum="8" parent="globals/rhythm_watch_garminMenuDelegate" pc="268435842" symbol="initialize"/>
+        <entry filename="c:\\projects\\rhythm-watch-garmin\\bin\\gen\\006-B4432-00\\source\\Rez.mcgen" id="20" lineNum="14" parent="globals/Rez/Layouts" pc="268435855" symbol="MainLayout"/>
+        <entry filename="c:\\projects\\rhythm-watch-garmin\\bin\\gen\\006-B4432-00\\source\\Rez.mcgen" id="20" lineNum="15" parent="globals/Rez/Layouts" pc="268435866" symbol="MainLayout"/>
+        <entry filename="c:\\projects\\rhythm-watch-garmin\\bin\\gen\\006-B4432-00\\source\\Rez.mcgen" id="20" lineNum="17" parent="globals/Rez/Layouts" pc="268435875" symbol="MainLayout"/>
+        <entry filename="c:\\projects\\rhythm-watch-garmin\\bin\\gen\\006-B4432-00\\source\\Rez.mcgen" id="20" lineNum="19" parent="globals/Rez/Layouts" pc="268435978" symbol="MainLayout"/>
+        <entry filename="c:\\projects\\rhythm-watch-garmin\\bin\\gen\\006-B4432-00\\source\\Rez.mcgen" id="20" lineNum="20" parent="globals/Rez/Layouts" pc="268436062" symbol="MainLayout"/>
+        <entry filename="c:\\projects\\rhythm-watch-garmin\\bin\\gen\\006-B4432-00\\source\\Rez.mcgen" id="20" lineNum="22" parent="globals/Rez/Layouts" pc="268436093" symbol="MainLayout"/>
+        <entry filename="c:\\projects\\rhythm-watch-garmin\\bin\\gen\\006-B4432-00\\source\\Rez.mcgen" id="21" lineNum="27" parent="globals/Rez/Menus/MainMenu" pc="268436108" symbol="&lt;init&gt;"/>
+        <entry filename="c:\\projects\\rhythm-watch-garmin\\bin\\gen\\006-B4432-00\\source\\Rez.mcgen" id="22" lineNum="28" parent="globals/Rez/Menus/MainMenu" pc="268436120" symbol="initialize"/>
+        <entry filename="c:\\projects\\rhythm-watch-garmin\\bin\\gen\\006-B4432-00\\source\\Rez.mcgen" id="22" lineNum="29" parent="globals/Rez/Menus/MainMenu" pc="268436122" symbol="initialize"/>
+        <entry filename="c:\\projects\\rhythm-watch-garmin\\bin\\gen\\006-B4432-00\\source\\Rez.mcgen" id="22" lineNum="30" parent="globals/Rez/Menus/MainMenu" pc="268436134" symbol="initialize"/>
+        <entry filename="c:\\projects\\rhythm-watch-garmin\\bin\\gen\\006-B4432-00\\source\\Rez.mcgen" id="22" lineNum="31" parent="globals/Rez/Menus/MainMenu" pc="268436179" symbol="initialize"/>
     </pcToLineNum>
     <symbolTable>
         <entry id="8388639" module="true" symbol="Graphics"/>
