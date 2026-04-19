@@ -1,1 +1,5 @@
 bin/
+gen/
+*.prg
+*.debug
+developer_key.der
